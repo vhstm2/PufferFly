@@ -1,0 +1,3 @@
+-keep class com.yasirkula.unity.* { *; }
+-keep class com.google.android.play.core.** { *; }
+-keep com.google.android.gms.play-** { *; } 
